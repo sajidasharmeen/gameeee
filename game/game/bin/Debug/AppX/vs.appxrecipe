@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FACULTY-65A</Machine>
+    <WindowsUser>sajida</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1a9360ad-3efc-476c-81ab-1e7e7a436559</PackageIdentityName>
+    <PackageIdentityPublisher>CN=sobia</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\sajida\Desktop\game\game\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>5E5BBE3406D685DED12E44C3EFDEEA6AE415EE2591D35BD8D39CD61CB397B9EF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1a9360ad-3efc-476c-81ab-1e7e7a436559_1.0.0.0_neutral__vq8v5a0gfjm9e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1a9360ad-3efc-476c-81ab-1e7e7a436559_vq8v5a0gfjm9e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1a9360ad-3efc-476c-81ab-1e7e7a436559</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=sobia</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\sajida\Desktop\game\game\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-05T07:48:44.739</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\sajida\Desktop\game\game\bin\Debug\game.exe">
+      <PackagePath>game.exe</PackagePath>
+      <Modified>2018-08-17T12:56:13.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sajida\Desktop\game\game\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sajida\Desktop\game\game\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sajida\Desktop\game\game\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sajida\Desktop\game\game\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sajida\Desktop\game\game\gamefolder\Apple-Fruit-Download-PNG.png">
+      <PackagePath>gamefolder\Apple-Fruit-Download-PNG.png</PackagePath>
+      <Modified>2017-09-05T07:40:34.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sajida\Desktop\game\game\gamefolder\back.png">
+      <PackagePath>gamefolder\back.png</PackagePath>
+      <Modified>2017-09-05T07:40:34.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sajida\Desktop\game\game\gamefolder\cato.png">
+      <PackagePath>gamefolder\cato.png</PackagePath>
+      <Modified>2017-09-05T07:40:34.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sajida\Desktop\game\game\gamefolder\coin.png">
+      <PackagePath>gamefolder\coin.png</PackagePath>
+      <Modified>2017-09-05T07:40:34.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sajida\Desktop\game\game\gamefolder\wallet.png">
+      <PackagePath>gamefolder\wallet.png</PackagePath>
+      <Modified>2017-09-05T07:40:34.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sajida\Desktop\game\game\gamefolder\watch.png">
+      <PackagePath>gamefolder\watch.png</PackagePath>
+      <Modified>2017-09-05T07:40:34.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sajida\Desktop\game\game\bin\Debug\game.xr.xml">
+      <PackagePath>game.xr.xml</PackagePath>
+      <Modified>2018-08-17T12:56:13.299</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sajida\Desktop\game\game\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-09-05T07:48:44.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sajida\Desktop\game\game\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2018-01-29T09:38:27.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sajida\Desktop\game\game\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-09-05T07:48:44.557</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
